@@ -8,4 +8,4 @@ Task 1 - Answer type prediction: Given a question in natural language, the task 
 
 Task 2 - Relation set prediction: Given a question in natural language, the task is to predict relation to used for identifying the correct answer.
 
-Task 3 - 
+Task 3 - Entity Linking: Given a question in natural language, the task is to predict the entity and link it to the KG, such tha the entity can be used retrieving the correct answer.
