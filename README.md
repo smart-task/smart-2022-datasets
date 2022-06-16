@@ -4,7 +4,7 @@ Question Answering is a popular task in the field of Natural Language Processing
 
 Thus, in the second iteration of SMART challenge, we have two independent tasks:
 
-## Task 1 - Answer type prediction
+## Task 1 - Answer Type Prediction
 Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology.
 
 Datasets: 
